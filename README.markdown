@@ -149,7 +149,8 @@ Most of the time using just the built-in `Array`, `Dictionary`, and `Set` types 
 - [Tree](Tree/). A general-purpose tree structure.
 - [Binary Tree](Binary Tree/). A tree where each node has at most two children.
 - [Binary Search Tree (BST)](Binary Search Tree/). A binary tree that orders its nodes in a way that allows for fast queries.
-- Red-Black Tree
+- [Red-Black Tree](Red-Black Tree/). A special version of a Binary Search Tree that can rebalance itself using color applied to each node.
+- [AVL Tree](AVL Tree/). A self-balancing form of a binary search tree, in which the height of subtrees differ at most by only 1.
 - Splay Tree
 - Threaded Binary Tree
 - [Segment Tree](Segment Tree/). Can quickly compute a function over a portion of an array.
